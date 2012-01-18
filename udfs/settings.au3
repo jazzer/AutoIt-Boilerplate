@@ -2,6 +2,8 @@
 ;		Einstellungsverwaltung
 ; ##############################################################################
 
+#include-once
+
 #include <Array.au3>
 
 Global $__settings_content
