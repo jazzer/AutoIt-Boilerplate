@@ -1,0 +1,12 @@
+=========================================
+          AutoIt-Boilerplate
+=========================================
+
+Dieses Repository ist als Startpunkt für neue AutoIt-Projekte gedacht.
+
+Features:
+- minimales Logging-Framework
+- Laden von Einstellungen
+
+Weitere Vorschläge gerne an autoit-boilerplate@slzm.de oder auf GitHub
+per Pull-Request.
